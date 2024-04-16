@@ -30,6 +30,7 @@ You can then explore the exercises and projects available in the repository and 
 
 The exercises directory contains a variety of JavaScript exercises covering different concepts such as:
 
+# Algorithms
 # Variables and Data Types
 # Control Flow (if statements, loops)
 # Functions
