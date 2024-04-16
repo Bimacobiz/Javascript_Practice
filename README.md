@@ -22,6 +22,8 @@ To get started with practicing JavaScript, simply clone this repository to your 
 ```bash
 git clone https://github.com/your-username/Javascript_practice.git
 
+```
+
 You can then explore the exercises and projects available in the repository and start practicing.
 
 ## Exercises
